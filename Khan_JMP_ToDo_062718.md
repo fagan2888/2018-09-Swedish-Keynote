@@ -7,6 +7,7 @@ Things that need to be added to the model:
   * `Status: `
 3. Add unemployment.
     * This will be done using an extremely low and persistent value for the permanent shock.
+       * NO -- there is an extremely low value for the TRANSITORY shock; the permanent hit is 10%
     * Roughly a hit of 10% to permanent income due to unemployment.
     * ***Confirm with Prof. Carroll if there is anything else that needs to be factored in when adding unemployment.***
   * `Status: `
