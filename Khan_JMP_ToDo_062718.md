@@ -2,9 +2,9 @@
 
 Things that need to be added to the model:
 1. Add permanent shocks to income as a Markov process.
-  * `Status: `
+  * `Status: ` **DONE**
 2. Adjust discounting to include a positive probability of death.
-  * `Status: `
+  * `Status: ` **DONE**
 3. Add unemployment.
     * This will be done using an extremely low and persistent value for the permanent shock.
        * NO -- there is an extremely low value for the TRANSITORY shock; the permanent hit is 10%
