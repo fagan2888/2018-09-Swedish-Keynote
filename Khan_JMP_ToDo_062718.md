@@ -41,6 +41,8 @@ Things that need to be added to the model:
   * 2-state Markov process
   * $\mathcal{U} = \{0,10\%\}$
   * Transition matrix given by $\left(\begin{array}{cc} \mu & 1-\mu\\ 0 & 1 \end{array}\right)$.
+  * **NOTE: Change the lower row to (1-e), e, where e > 0.**
+  * Mean hit to permanent income is 10%.
 * $\mathcal{E}_t \equiv 1-\mathcal{U}_t= \{1,0.9\}$ $\hspace{10pt}$ -- Employment shock
 * $Y_t = \mathcal{E}_t. \psi_t . \theta_t$
 * In this case, the experiment of hitting the economy with an unemployment shocks would look like the following:
