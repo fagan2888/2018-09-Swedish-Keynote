@@ -4,7 +4,7 @@
 
 #### KMV
 
-1. In contrast to Mian and Sufi's '*credit supply view*', in which lose lending conditions lead to higher borrowing and higher house prices, the KMV paper proposes the '*expectations view*'. In their model, looser credit barely affects house prices, but it does increase the homeownership rate.
+1. In contrast to Mian and Sufi's ***credit supply view***, in which lose lending conditions lead to higher borrowing and higher house prices, the KMV paper proposes the ***expectations view***. In their model, looser credit barely affects house prices, but it does increase the homeownership rate.
   * The way they disconnect the dynamics of homeownership from those in house prices is as follows:
     * Renters are unconstrained in their housing consumption choice due to access to the rental market, but there are a number of renters who are constrained in their housing tenure due to down-payment constraints.
     * When the borrowing constraints are relaxed, they opt to buy instead of renting; however, they purchase housing of similar size of the one they rented, and so the total housing demand does not rise and house prices are unaffected.
@@ -24,6 +24,10 @@
 * ***Q5: How long does their model take to solve? It would be a good benchmark to compare my own Python code to.***
 
 #### Garriga and Hedlund
-*
-
+6. As pointed out by Russ Cooper in his comments on *Housing Finance, Boom-Bust Episodes, and Macroeconomic Fragility*, Garriga and Hedlund do not show the moments from cdf over assets, wealth, and debt.
+* ***Q6: How well does their model fit the asset, wealth, and debt distribution?***
+7. One of the key elements in their model is the endogenous illiquidity of houses. During a bust, houses become more illiquid as a result of a higher time-on-market.
+* ***Q7: Given the important role that time-on-market plays in driving the liquidity properties of houses in their model, it is not clear how well their model fits the data along this dimension.***
+8. Their mortgage pricing is more complicated than KMV.
+* ***Q8: Any insights how this is done computationally would be great.***
 ------------------------------------------------------------------------
