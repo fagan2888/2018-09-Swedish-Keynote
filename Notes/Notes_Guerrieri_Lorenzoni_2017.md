@@ -43,7 +43,7 @@
 ####Calibration
 * Wage process approximated by a 12-state Markov chain.
 * For the transitions between employment and unemployment they follow Shimer (2005), which estimates the finding rate and the separation rate from CPS data.
-* Unemployment benefit set to 4-% of average labor income.
+* Unemployment benefit set to 40% of average labor income.
 * Bond supply calibrated to match the liquid assets to GDP ratio in 2006 of 1.78.
 
 ####Results
