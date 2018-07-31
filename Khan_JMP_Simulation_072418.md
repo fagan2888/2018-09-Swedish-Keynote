@@ -1,10 +1,9 @@
 # Some key results of the model
 
-1. If a HH has low mortgage debt, they do not default, regardless of the income shocks or house prices.
-2. HHs default only in a high debt and low house price environment.
-  * The threshold of $m_t$ below which a household defaults is determined by the permanent income shock they receive and their employment state.
-  * If a household is unemployed (or has a low draw of permanent income), this threshold is ***lower***.
-    * This is because if the HHs whose prospects of future income are low end up defaulting, they will have to bear a higher burden of the more expensive rental services. (*I need to understand and explain this better.*)
+1. If a HH has very low mortgage debt, they do not default, regardless of the income shocks or house prices.
+  * If the debt is very low and HH is hit with a bad income and employment shock, the sell rather than default.
+2. HHs default only in a high debt environment.
+  * The threshold of $m_t$ below which a household defaults is determined by the permanent income shock they receive, their employment state, and the level of house prices.
 3. Based on the current calibration (***annual frequency***), I am having trouble matching the data for default rate.
   * When prices are low and debt is high, default happens when $m_t<0.4$.
     * **NOTE $(07/30/2018):$ This threshold is a little higher now, since I had been incorrectly using a half-life of 60 years for the mortgage debt in my initial estimation. This was a remnant from the quarterly calibration, which I had not adjusted for the annual frequency.**
