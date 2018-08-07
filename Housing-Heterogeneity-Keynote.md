@@ -1,33 +1,33 @@
-<font size="6"><b><center>Housing and Heterogeneity: <br> A Narrative and An Agenda</center></b></font>
+<font size="7"><b><center>Housing and Heterogeneity: <br> A Narrative and An Agenda</center></b></font>
 <br>
-<font size="5"><b><center>Christopher Carroll</center></b></font>
+<font size="6"><b><center>Christopher Carroll</center></b></font>
 
 <!-- Comments and other metadata will be scattered throughout like this -->
 <!-- Items for which Shujaat might provide citations or color: SAK -->
 
 # Alternate History ('History 2.0')
-<!-- Not as exciting as "what if Hitler had won," but same idea -->
+<!-- Not as exciting as "what if Hitler had won," but similar idea -->
 
 <!-- In this alternate reality, ... -->
-## Suppose from 1995 we'd had '2030 Tools:'
+## Suppose from 2001 we'd had '2030 Tools:' <!-- I will elaborate in part 2 -->
 ### _Panel_ data at the household level:
    * Integrated HH balance sheets (registry, or Mint, e.g.)
    * Expectations ('What will stock/housing prices do?')
    * Explanations ('_Why_'?)
 
-### Models that can handle _all_ kinds of heterogeneity:
-   * Not only balance sheets ...
+### Models that can handle:
+<!--   * Not only balance sheets ...
       * Already pretty close using conventional ideas
          * Risk preference, discount rates, income shocks
-   * ... but _also_ expectations and explanations heterogeneity
+-->         
+   * Expectations and explanations heterogeneity
       * Many competing theories right now
-         * Nagel, Shleifer et al, 'k-level thinking'
-         * Generically: Extrapolative expectations
-      * Let's run with one:
-         * _Everybody_ has extrapolative expectations
+         * Nagel, Shleifer et al, 'k-level thinking,' ... <!-- SAK: -->
+      * Let's run with _heterogeneous_ extrapolative expectations
          * Shiller looks back 150 years
          * Some people look back 3 years
-         * "Memory," for short
+         * Heterogeneous "Memory," for short
+      * Implies (I think; and will assume) ...
 
 <!--       
   * Result:
@@ -35,8 +35,8 @@
           * know it's a bubble when shoeshine boy is giving stock tips
 -->
 
-<!-- SAK: Add cites for Charles MacKay (1841) - Kindleberger book - Minsky -->
-## Toy Theory Of Bubbles
+<!-- SAK: Add to bibfile cites for Charles MacKay (1841) - Kindleberger book - Minsky -->
+## ... Toy Theory Of Bubbles
 
 *  Some genuine good news arrives
    * Fundamental value of asset is higher
@@ -68,8 +68,8 @@ Mid-90's Productivity Acceleration
 <!-- CBO: Budget surpluses as far as the eye can see -->
 
 Consequence: Boom in asset prices
-  * Stock Market (1994-2001) <!--      * Peaked about when ERP conceded -->
-  * _Also x percent rise in house prices_ <!-- SAK: find x for both Case-Shiller and FHFA -->
+  * Stock Market (1994-2000) <!--      * Peaked March 2010 -- just before ERP conceded -->
+  * [_Also ~30 percent rise in house prices_](https://github.com/llorracc/Figures/blob/2018-09-Swedish-Keynote/UpwardSlope2.jpg)
 
 <!--
 ## Prehistory 2.0
@@ -92,7 +92,7 @@ Consequence: Boom in asset prices
 ## Prehistoric Theories
 
 * Rationally Exuberant Expectations
-   * Hall (2000) AEA Ely Lecture
+   * Hall (2000) AEA Ely Lecture (I think -- SAK find it)
       * Companies rapidly creating "intangible capital"
 * Irrational Exuberance (Shiller)
    * No Usable Theory of the _Right_ model
@@ -103,58 +103,63 @@ Consequence: Boom in asset prices
       * "Crisis of Confidence" in financial markets -->
 <!--- Find a figure showing data, maybe from Shiller, with expectations of stock returns in some period before and after the crash of the dot-com bubble in 2001 --->
 
-## The Boom: History 1.0
+## The Boom: History 1.0 - Facts
 
-2000-01:
-   * Housing is _not_ the cycle
+2000-01: <!-- SAK: find facts about mildness of housing decline in 2000-01 recession -->
+   * Housing is _not_ the cycle <!-- Ed Leamer notwithstanding (SAK: Leamer Jackson Hole paper) -->
 
 2001: China Joins WTO
    * Chinese external saving unleashed
       * $\Rightarrow$ Interest rates lowest since Great Depression
 
+2003-2006:
+  * Large $\uparrow$ in availability of credit
+     * Subprime _and_ prime
+     * For primary residences _and_ nonprimary
+     * Bernanke  "global savings glut ('GSG')" (2005) <!-- SAK: add to bibfile -->
+      <!--      * Real and nominal -->
+      <!--      * Greenspan "conundrum" speech (2004?) -->
+      <!---        * Sidenote: Theory says the "conundrum" was why 30 year rates and overnight rates were so highly correlated _before_ 2004 --->
+
+
+## The Boom: History 1.0 - Interpretation
+
 2002:
    * First claims housing bubble is inflating
-      * Krugman; the _Economist_; scattered others
+      * Krugman; the _Economist_; scattered others <!-- find link to Krugman column -->
+      <!-- SAK: Find graphs of consumer house price expectations; Mian and Sufi (2018)? -->
 
 2004:
-   * Shiller: 'Might be a bubble'
-   * Gramlich: 'Something funny going on around here'
+   * Shiller: 'Might be a bubble' <!-- SAK: Shiller discussed a paper of mine at the Fed where he said this; see if you can find him saying it publicly in 2004; put in bibfile -->
+   * Gramlich: 'Something funny going on around here' <!-- SAK: Find citation for Gramlich's warnings -->
         * 'Financial innovation'
 
-## The Boom: History 1.0, 2003-2006
-
-2003-2006:
-* Large $\uparrow$ in availability of credit
-   * Subprime _and_ prime
-   * For primary residences _and_ nonprimary
-   * Bernanke notices "global savings glut" (2005)      
-<!--      * Real and nominal -->
-<!--      * Greenspan "conundrum" speech (2004?) -->
-<!--         * "Something funny going on around here" -->
-<!---        * Sidenote: Theory says the "conundrum" was why 30 year rates and overnight rates were so highly correlated _before_ 2004 --->
-
-2006:
-   * Mayer and Sinai (JEP):
-      * 'Not a bubble - there was a shock to fundamentals'
+2005:
+   * Himmelberg, Mayer and Sinai (JEP): <!-- SAK: put in bibfile and papers -->
+      * 'Not a bubble - improved fundamentals'
          * By 2001, "New Economy" is now consensus
          * Low $R$ (from GSG and FRB)
          * 'financial innovation' <!-- * In the Volcker sense -->
 
 ## The Boom: History 2.0 (2002-2006)
-* Prereq for bubble: shock to fundamentals
+* _Prereq_ for bubble: improved fundamentals
 * 2002-2003: Lots of people in "susceptible" pool
-   * $\mathbb{E}[\Delta p^{h}]$ is high: "momentum" <!-- Also, cf stock market fraud/Enron -->a
-   * "New Economy" still lingers: They have some money
+   * $\mathbb{E}[\Delta p^{h}]$ is high: "momentum" <!-- SAK: Find figure showing house price growth expectations vs stock market (if such figures exist ...) -->
+   * "New Economy" + Bush upper-income tax cuts
+      * They have some money
 
-* 2003-2006: Increasing 'infection'  <!-- (cf Pizzesi and Schneider 'marginal' investors) -->
-    * _We see_ individual people's expectations changing
-       * _We ask them why_ and they _say_ "momentum"
-    * People _say they are_ investing in houses not stocks
-         * _Because_ $\mathbb{E}[\Delta p_{h} \uparrow]$    
-         * Buying bigger houses
-         * _margin_: more and more buying "as an investment"
+## The Boom: History 2.0 (2002-2006)
+
+Increasing 'infection'  <!-- (citekey for Pizzesi and Schneider 'marginal' investors) -->
+* _We see_ people's expectations changing _heterogenously_
+   * _Among those_ with $\uparrow$ in $\mathbb{E}[\Delta p^{h}]$
+     * Biggest increase among _ex ante_ low memory types
+        * _We ask them why_ and they _say_, basically, "momentum"
+   * _Marginal_ demand driven by optimists <!-- Citation for Mian and Sufi vs Adelino etc -->
+      1. Primary residence buyers: buy more expensive houses
+      2. More and more buying "as an investment"
     * Data _are_ the plural of anecdotes
-         * Hairdressers, shoeshine boys becoming 'flippers'
+         * Hairdressers, 'shoeshine boys' becoming 'flippers' <!-- SAK: Find quote -- Rockefeller? -- about how you know its a bubble when shoeshine boy gives you stock tips -->
 <!--       * TV shows do not lie -->
 <!-- Models vs data
    * Krugman _et al_ may have a point
@@ -166,83 +171,75 @@ Consequence: Boom in asset prices
        * Underwater
        * Negative income shock
        * pessimistic $\mathbb{E}_{t}[\Delta p^{h}_{t+1}]$
-    * $\Delta p^{h}_{t-1} \Rightarrow \mathbb{E}_{t}[\Delta p_{t+1}^{h}]$
-       * If at $t$, _inflow_ declines (fewer _marginal investors_)
-       * Then $\Delta p^{h}_{t+1} < \mathbb{E}_{t}[\Delta p^{h}_{t+1}]$
-       * "momentum" reverses
+* 2030 theory tells us <!-- $\Delta p^{h}_{t-1} \Rightarrow \mathbb{E}_{t}[\Delta p_{t+1}^{h}]$ -->
+   * If at $t$, _inflow_ declines ($\downarrow$ _marginal_ demand)
+      * then $\Delta p^{h}_{t+1} < \mathbb{E}_{t}[\Delta p^{h}_{t+1}]$
+   * _Low memory types_ extrapolate quickly:
+       * $\mathbb{E}_{t+1}[\Delta p^{h}_{t+2}] < \mathbb{E}_{t}[\Delta p^{h}_{t+2}]$
+       * "infectious pessimism" -- especially among low-memory
 
 ## The Boom: History 2.0 (2002-2006, Macropru edition)
-* $\Rightarrow$ Macropru authorities know how to do _micro_ 'stress tests' <!--        * Prudence: $\mathbb{E}[u^{\prime}]$ -->
-    * At date $t$, take balance sheets, $\mathbb{E}_{t}[\Delta p_{h}]$
+* $\Rightarrow$ Macropru regulators know how to do _micro_ 'stress tests' <!--        * Prudence: $\mathbb{E}[u^{\prime}]$ -->
+    * At date $t$, see balance sheets and $\mathbb{E}_{t}[\Delta p_{h}]$
     * Simulate alternate _future_ histories:
        * Fundamental shocks
-       * Expectations shocks
+       * Uncertainty shocks
+       * Other shocks
 
 ## The Boom: History 2.0 (2002-2006, Macropru edition)
 * Result: Ever-increasing worry from 2002-2006
     * Low-equity HH's + 'double triggers' $\Rightarrow$ defaults
-       * More and more low-equity HH's
-    * _marginal_ demand from "investors" can vanish overnight
-    * Know: when "susceptible" pool exhausted, "momentum" can reverse
-       * All risk-tolerant low-memory hairdressers already flippers
+       * More and more low-equity HH's (financial innovation!)
+       * "stress test": susceptible to increase in unemployment
+    * Theory: When "susceptible" exhausted, "momentum" reverses
+       * All risk-tolerant low-memory hairdressers _already_ flippers
+* Micro stress tests reveal major fragility
 
 ## The Boom: History 2.0 (2002-2006, Macropru edition)
 * Consequence? History 2.0 differs from 1.0
-   * Increasing macropru intervention targeting _marginals_
-   * _Especially_ targeting likeliest defaulters:
+   * Macropru policy targeting _marginal_ people
+   * Likeliest defaulters:
       * High LTV, High DSTI, _and nonprimary_
       * People with more uncertain (variable) income
+   * Fuel-On-the-Fire _marginal_ real estate investors
+      * They pose a pecuniary externality
+      * Charge them a lot for it!
    * Bubble avoided!
 
-<!-- [Shiller]![figure_03.png](attachment:figure_03.png) -->
-
 # Part 2: Agenda
-## Expectations Data
-Sampling frame: Data source with rich info on balance sheets
-* U.S.: Mint.com, Credit Panels
-* Scandinavia: registry
-* Elsewhere: Internet panels
 
-### Proposal: Abolish Consumer Expenditure Surveys
-Replace them with Consumer Expectations Surveys
-* Get expenditures from admin data (Mint.com etc)
-* Use precious survey time asking:
-   * expectations
-   * explanations
-   * actions
+## Modeling (near term priorities)
 
-## Models (near term)
-
-Sluggishness in $p^{h}$ comes from:
-   * Search frictions
-   * Imperfect information
-
-Incorporate "speculative demand"
+### Incorporate real estate investing in HH problem
    * Integrated with "primary housing" choices
-   * Governed by same expectations, Explanations
-   * Match theory to data
-      * Not just (or mainly) steady-state
-      * Key: Dynamics of _marginal_ investors
+   * Governed by same expectations, explanations
 
-## Modeling Expectations and explanations (Desiderata)
-Desiderata:
-* Congruence between:
-   * Empirical expectations/Explanations
-   * Model-implied expectations/Explanations
-* Dependence on/connection to balance sheets
-   * _Whose_ expectations move is crucial
+### Focus of models (and analysis thereof):
+   * _tell us what questions to ask on surveys_
+   * e.g., Kaplan, Mitman, Violante would imply
+      * Get Expectations, explanations
+      * Are Explanations about Fundamentals?
+         * 'I think $R$ is permanently lower'
+   * _Whose_ expectations to focus on
       * Forever-renters?  Not important
       * People with marginal decisions?  Critical
 
+### Dynamics (not just steady states) <!-- very hard; got to try -->
+   * _Especially_ for the marginal players
+   * Sluggishness in $p^{h}$ _and behavior_ comes from:
+      * Search frictions (Garriga and Hedlund, e.g.)
+      * Information frictions
+         * Everybody knows everything instantly: won't work
+   * Very hard
 
 ## Modeling Expectations and explanations (Desiderata)
-Simplicity
-   * Ideal: Same model for _Everybody_
+Simplicity: Ideals
+   * Same model for _Everybody_
       * Difference in parameter like "memory"
    * Behavioral foundations strongly supported by evidence
-      * "Other people are like me"
-      * "Representativeness Heuristic"
-      * Fading Memory
+      * "Other people are like me" <!-- Find a reference of evidence of this -->
+      * "Representativeness Heuristic" <!-- SAK: Kahneman book "Thinking fast and slow" into bibfile -->
+      * Fading Memory <!-- SAK: Nagel and Malmendier refs into bibfile -->
       * ...
 
 ## Modeling Expectations and explanations (Desiderata)
@@ -250,7 +247,28 @@ Reproducibility
    * Modular
    * Open-source
    * Common framework across researchers
-      * Econ-ARK!
+      * [Econ-ARK](http://econ-ark.org)!
+
+# Expectations Data
+Sampling frame: Data source with rich info on balance sheets
+* U.S.: Mint.com, Credit Panels
+* Scandinavia: registry
+* Elsewhere: Internet panels
+
+### Proposal: Abolish Consumer Expenditure Surveys
+Replace them with Consumer Expectations Surveys <!-- Same acronym, so not too hard -->
+* Get expenditures from admin data (Mint.com, registries)
+* Use precious survey time asking:
+   * expectations
+   * explanations
+   * actions
+   * _whatever else models identify as important_
+
+### Proposal: Abolish Consumer Expenditure Surveys
+
+* Oversample potential _marginal_ decisionmakers
+   * e.g. intensive surveys of new homebuyers
+   * 'Are you a flipper?'
 
 # Conclusion
 * Might take more than 12 years
