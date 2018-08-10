@@ -196,15 +196,23 @@ Increasing 'infection'  <!-- (citekey for Pizzesi and Schneider 'marginal' inves
 * Micro stress tests reveal major fragility
 
 ## The Boom: History 2.0 (2002-2006, Macropru edition)
-* Consequence? History 2.0 differs from 1.0
+Consequence? History 2.0 differs from 1.0
    * Macropru policy targeting _marginal_ people
-   * Likeliest defaulters:
-      * High LTV, High DSTI, _and nonprimary_
-      * People with more uncertain (variable) income
-   * Fuel-On-the-Fire _marginal_ real estate investors
-      * They pose a pecuniary externality
-      * Charge them a lot for it!
+      * Likeliest defaulters:
+         * High LTV, High DSTI, _and nonprimary_
+         * People with more uncertain (variable) income
+      * Fuel-On-the-Fire _marginal_ real estate investors
+         * They pose a pecuniary externality
+         * Charge them a lot for it!
    * Bubble avoided!
+
+## The Bust: History 1.0
+![](https://github.com/llorracc/Figures/blob/master/Retail-Sales-Collapse.jpg)
+
+<!--
+![](Figures/Retail-Sales-Collapse.png)
+![](Retail-Sales-Collapse.pnghttps://github.com/llorracc/Figures/blob/master/Retail-Sales-Collapse.jpg)
+-->
 
 # Part 2: Agenda
 
