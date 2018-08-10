@@ -22,7 +22,7 @@
 -->         
    * Expectations and explanations heterogeneity
       * Many competing theories right now
-         * Nagel, Shleifer et al, 'k-level thinking,' ... <!-- SAK: -->
+         * Nagel, Shleifer et al, 'k-level thinking,' ... <!-- SAK: citations; Shleifer: 'Diagnostic Expectations' -->
       * Let's run with _heterogeneous_ extrapolative expectations
          * Shiller looks back 150 years
          * Some people look back 3 years
@@ -31,7 +31,7 @@
 
 <!--       
   * Result:
-      * Dot-Com Bubble a Rockefeller moment:
+      * Dot-Com Bubble a Rockefeller moment: (SAK find citation)
           * know it's a bubble when shoeshine boy is giving stock tips
 -->
 
@@ -71,6 +71,8 @@ Mid-90's Productivity Acceleration
 Consequence: Boom in asset prices
   * Stock Market (1994-2000)
   * [_Also ~30 percent rise in house prices_](https://github.com/llorracc/Figures/blob/2018-09-Swedish-Keynote/UpwardSlope2.jpg)
+
+<!-- ![_Also ~30 percent rise in house prices_](Figures/UpwardSlope2.jpg) -->
 
 <!--
 ## Prehistory 2.0
@@ -112,6 +114,7 @@ Consequence: Boom in asset prices
 2001-05: Chinese external saving unleashed (WTO)
 * $\Rightarrow$ Interest rates lowest since Great Depression
 * Bernanke  "global savings glut ('GSG')" (2005) <!-- SAK: add to bibfile -->
+<!-- MS say it's also because of the increase in inequality SAK: (get ref in bibfile; -->
 
 2002-06:
   * Continuing $\uparrow$ in availability of credit
@@ -122,12 +125,14 @@ Consequence: Boom in asset prices
       <!---        * Sidenote: Theory says the "conundrum" was why 30 year rates and overnight rates were so highly correlated _before_ 2004 --->
 
 
-## The Boom: History 1.0 - Interpretation
+## The Boom: History 1.0 - Interpretation <!-- Contemporaneous -->
 
 2002:
    * First claims housing bubble is inflating
       * Krugman; the _Economist_; scattered others <!-- SAK find link to Krugman column, put in bibfile -->
-      <!-- SAK: Find graphs of consumer house price expectations; Mian and Sufi (2018)? -->
+      <!-- SAK: reference to Mian and Sufi (2018) vs Adelino etc on this subject? -->
+
+      <!-- SAK: add Blinder:After the Music Stopped to references -->
 
 2004:
    * Shiller: 'Might be a bubble' <!-- SAK: Shiller discussed a paper of mine at the Fed where he said this; see if you can find him saying it publicly in 2004; put in bibfile -->
@@ -153,7 +158,6 @@ Consequence: Boom in asset prices
       * Michigan survey: Pessimistic about stock market (after bubble)
 
 
-
 ## The Boom: History 2.0 (2002-2006)
 
 Increasing 'infection'  <!-- (citekey for Pizzesi and Schneider 'marginal' investors) -->
@@ -166,7 +170,7 @@ Increasing 'infection'  <!-- (citekey for Pizzesi and Schneider 'marginal' inves
       2. More and more buying "as an investment" and not residence
     * Data _are_ the plural of anecdotes
          * Hairdressers, 'shoeshine boys' becoming 'flippers'
-         <!-- SAK: Find quote -- Rockefeller? -- about how you know its a bubble when shoeshine boy gives you stock tips -->
+         <!-- SAK: Find quote -- Rockefeller? -- about how you know its a bubble when shoeshine boy gives you stock tips; also citation for flipping -->
 <!--       * TV shows do not lie -->
 <!-- Models vs data
    * Krugman _et al_ may have a point
@@ -189,14 +193,14 @@ Increasing 'infection'  <!-- (citekey for Pizzesi and Schneider 'marginal' inves
        * $\Delta p^{h}_{t+1} < \mathbb{E}_{t}[\Delta p^{h}_{t+1}]$
          * $\Rightarrow \mathbb{E}_{t+1}[\Delta p^{h}_{t+2}] < \mathbb{E}_{t}[\Delta p^{h}_{t+2}]$
        * Low memory optimists become pessimists
-         * "infection": pessimist demand dries up
+         * "infection": demand dries up
 
 ## The Boom: History 2.0 (2002-2006, Macropru edition)
 * $\Rightarrow$ Macropru regulators know how to do _micro_ 'stress tests' <!--        * Prudence: $\mathbb{E}[u^{\prime}]$ -->
     * At date $t$, see balance sheets and $\mathbb{E}_{t}[\Delta p^{h}_{t+\bullet}]$
     * Simulate alternate _future_ histories:
-       * Fundamental shocks
-       * Uncertainty shocks
+       * Fundamental shocks <!-- SAK: find citation for Fernald, Hall, etc: Decline in pty growth starting 2005 (Brookings paper) citation -->
+       * Uncertainty shocks <!-- Michigan survey but don't see whose uncertainty goes up -- marginal homebuyers ? -->
        * ...
 
 ## The Boom: History 2.0 (2002-2006, Macropru edition)
@@ -214,20 +218,32 @@ Consequence? History 2.0 differs from 1.0
       * Likeliest defaulters:
          * High LTV, High DSTI
          * People with more uncertain (variable) income
+         * People who are susceptible in other ways <!-- discount rates -->
       * Fuel-On-the-Fire _marginal_ real estate investors
          * Charge them for the pecuniary externality they impose
    * Bubble avoided!
 
 ## The Bust: History 1.0
 
-![](Figures/Retail-Sales-Collapse.jpg "Retail Sales Collapse")
+![](Figures/Retail-Sales-Collapse.jpg)
+<!-- SAK citation to own paper on household response to uncertainty paper reference -->
 
 ## The Bust: History 1.0
 
-Competing stories:
-  * $\downarrow$ in believed level of permanent income <!-- SAK: Find Cochrane reference saying this -->
-  * $\uparrow$ labor income uncertainty
+Michigan Surveys:
+  * Huge increases in pessimism between 2008q2 and 2008q4
+     * uncertainty
+     * house prices
+     * income
+     * everything
 
+<!-- SAK: Find Cochrane reference saying this -->
+<!--
+Competing stories:
+  * $\downarrow$ in believed level of permanent income
+  * $\uparrow$ labor income uncertainty
+-->
+ <!-- cssUSSaving -->
 
 <!--
 ![](https://github.com/llorracc/Figures/blob/master/Retail-Sales-Collapse.jpg)
@@ -266,7 +282,7 @@ Simplicity: Ideals
    * Same model for _Everybody_
       * Difference in parameter like "memory"
    * Behavioral foundations strongly supported by evidence
-      * "Other people are like me" <!-- Find a reference of evidence of this -->
+      * "Other people are like me" <!-- SAK: Find a reference of evidence of this -->
       * "Representativeness Heuristic" <!-- SAK: Kahneman book "Thinking fast and slow" into bibfile -->
       * Fading Memory <!-- SAK: Nagel and Malmendier refs into bibfile -->
       * ...
@@ -278,7 +294,7 @@ Reproducibility
    * Common framework across researchers
       * [Econ-ARK](http://econ-ark.org)!
 
-# Expectations Data
+# Expectations and Explanations Data
 Sampling frame: Data source with rich info on balance sheets
 * U.S.: Mint.com, Credit Panels
 * Scandinavia: registry
