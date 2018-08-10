@@ -11,9 +11,9 @@
 <!-- In this alternate reality, ... -->
 ## Suppose from 2001 we'd had '2030 Tools:' <!-- I will elaborate in part 2 -->
 ### _Panel_ data at the household level:
-   * Integrated HH balance sheets (registry, or Mint, e.g.)
-   * Expectations ('What will stock/housing prices do?')
-   * Explanations ('_Why_'?)
+   * Integrated HH balance sheets (registry, or [Mint.com](https://mint.com), e.g.)
+   * _With_ Expectations ('What will stock/housing prices do?') <!-- Michigan does this now -->
+   * _With_ Explanations ('_Why_'?) <!-- Almost nobody does this now; Michigan a little bit -->
 
 ### Models that can handle:
 <!--   * Not only balance sheets ...
@@ -35,7 +35,7 @@
           * know it's a bubble when shoeshine boy is giving stock tips
 -->
 
-<!-- SAK: Add to bibfile cites for Charles MacKay (1841) - Kindleberger book - Minsky -->
+<!-- SAK: Add to bibfile cites for Charles MacKay (1841) "madness of crowds" - Kindleberger (1978?) book - Minsky -->
 ## ... Toy Theory Of Bubbles
 
 *  Some genuine good news arrives
@@ -67,8 +67,9 @@ Mid-90's Productivity Acceleration
 <!--        * "The New Trend In Productivity" (p. 26) -->
 <!-- CBO: Budget surpluses as far as the eye can see -->
 
+<!--      * Stock market peaked March 2010 -- just before ERP conceded -->
 Consequence: Boom in asset prices
-  * Stock Market (1994-2000) <!--      * Peaked March 2010 -- just before ERP conceded -->
+  * Stock Market (1994-2000)
   * [_Also ~30 percent rise in house prices_](https://github.com/llorracc/Figures/blob/2018-09-Swedish-Keynote/UpwardSlope2.jpg)
 
 <!--
@@ -86,7 +87,7 @@ Consequence: Boom in asset prices
       * (cf Hall 2000)
 -->
 
-<!-- Blinder:After the Music Stopped -->
+<!-- SAK: add Blinder:After the Music Stopped to references -->
 
 <!--
 ## Prehistoric Theories
@@ -108,15 +109,14 @@ Consequence: Boom in asset prices
 2000-01: <!-- SAK: find facts about mildness of housing decline in 2000-01 recession -->
    * Housing is _not_ the cycle <!-- Ed Leamer notwithstanding (SAK: Leamer Jackson Hole paper) -->
 
-2001: China Joins WTO
-   * Chinese external saving unleashed
-      * $\Rightarrow$ Interest rates lowest since Great Depression
+2001-05: Chinese external saving unleashed (WTO)
+* $\Rightarrow$ Interest rates lowest since Great Depression
+* Bernanke  "global savings glut ('GSG')" (2005) <!-- SAK: add to bibfile -->
 
-2003-2006:
-  * Large $\uparrow$ in availability of credit
+2002-06:
+  * Continuing $\uparrow$ in availability of credit
      * Subprime _and_ prime
      * For primary residences _and_ nonprimary
-     * Bernanke  "global savings glut ('GSG')" (2005) <!-- SAK: add to bibfile -->
       <!--      * Real and nominal -->
       <!--      * Greenspan "conundrum" speech (2004?) -->
       <!---        * Sidenote: Theory says the "conundrum" was why 30 year rates and overnight rates were so highly correlated _before_ 2004 --->
@@ -126,7 +126,7 @@ Consequence: Boom in asset prices
 
 2002:
    * First claims housing bubble is inflating
-      * Krugman; the _Economist_; scattered others <!-- find link to Krugman column -->
+      * Krugman; the _Economist_; scattered others <!-- SAK find link to Krugman column, put in bibfile -->
       <!-- SAK: Find graphs of consumer house price expectations; Mian and Sufi (2018)? -->
 
 2004:
@@ -134,19 +134,25 @@ Consequence: Boom in asset prices
    * Gramlich: 'Something funny going on around here' <!-- SAK: Find citation for Gramlich's warnings -->
         * 'Financial innovation'
 
+## The Boom: History 1.0 - Interpretation
+
 2005:
    * Himmelberg, Mayer and Sinai (JEP): <!-- SAK: put in bibfile and papers -->
       * 'Not a bubble - improved fundamentals'
-         * By 2001, "New Economy" is now consensus
-         * Low $R$ (from GSG and FRB)
+         * "New Economy" is now consensus
+         * Low $R$ (from GSG and Fed) <!-- Fed was worried about deflation (!) -->
          * 'financial innovation' <!-- * In the Volcker sense -->
 
+<!-- Now everybody _understands_ the toy theory above -->
 ## The Boom: History 2.0 (2002-2006)
 * _Prereq_ for bubble: improved fundamentals
 * 2002-2003: Lots of people in "susceptible" pool
-   * $\mathbb{E}[\Delta p^{h}]$ is high: "momentum" <!-- SAK: Find figure showing house price growth expectations vs stock market (if such figures exist ...) -->
+   * $\Delta_{\bullet}~ p^{h}_{t} \rightarrow \mathbb{E}_{t}[\Delta p^{h}_{t+\bullet}]$ is high: "momentum" <!-- SAK: Use data from [Michigan surveys](https://data.sca.isr.umich.edu/charts.php) to show $\Delta_{1} p^{h}_{t} vs ... \mathbb{E}_{t}[\Delta p^{h}_{t+1}]$ for period over which both are available) -->
    * "New Economy" + Bush upper-income tax cuts
       * They have some money
+      * Michigan survey: Pessimistic about stock market (after bubble)
+
+
 
 ## The Boom: History 2.0 (2002-2006)
 
@@ -155,61 +161,76 @@ Increasing 'infection'  <!-- (citekey for Pizzesi and Schneider 'marginal' inves
    * _Among those_ with $\uparrow$ in $\mathbb{E}[\Delta p^{h}]$
      * Biggest increase among _ex ante_ low memory types
         * _We ask them why_ and they _say_, basically, "momentum"
-   * _Marginal_ demand driven by optimists <!-- Citation for Mian and Sufi vs Adelino etc -->
+   * _Marginal_ demand driven by low-memory optimists <!-- Citation for Mian and Sufi vs Adelino etc -->
       1. Primary residence buyers: buy more expensive houses
-      2. More and more buying "as an investment"
+      2. More and more buying "as an investment" and not residence
     * Data _are_ the plural of anecdotes
-         * Hairdressers, 'shoeshine boys' becoming 'flippers' <!-- SAK: Find quote -- Rockefeller? -- about how you know its a bubble when shoeshine boy gives you stock tips -->
+         * Hairdressers, 'shoeshine boys' becoming 'flippers'
+         <!-- SAK: Find quote -- Rockefeller? -- about how you know its a bubble when shoeshine boy gives you stock tips -->
 <!--       * TV shows do not lie -->
 <!-- Models vs data
    * Krugman _et al_ may have a point
    -->
 
-## The Boom: History 2.0 (2002-2006, Macropru edition)
-* _Theory+Data tell us_:
-    * People default when:
-       * Underwater
-       * Negative income shock
-       * pessimistic $\mathbb{E}_{t}[\Delta p^{h}_{t+1}]$
+## Boom to Bust: History 2.0 (2007-08)
+
+* 2030-type _Theory+Data tell us_ people default when:
+   * Underwater
+   * Negative income shock
+   * pessimistic $\mathbb{E}_{t}[\Delta p^{h}_{t+1}]$
 * 2030 theory tells us <!-- $\Delta p^{h}_{t-1} \Rightarrow \mathbb{E}_{t}[\Delta p_{t+1}^{h}]$ -->
    * If at $t$, _inflow_ declines ($\downarrow$ _marginal_ demand)
       * then $\Delta p^{h}_{t+1} < \mathbb{E}_{t}[\Delta p^{h}_{t+1}]$
+
+## Boom to Bust: History 2.0 (2007-08)
+* In 2007, _expansion_ of credit stops <!-- Fed SLOOS shows this -->
+*
    * _Low memory types_ extrapolate quickly:
-       * $\mathbb{E}_{t+1}[\Delta p^{h}_{t+2}] < \mathbb{E}_{t}[\Delta p^{h}_{t+2}]$
-       * "infectious pessimism" -- especially among low-memory
+       * $\Delta p^{h}_{t+1} < \mathbb{E}_{t}[\Delta p^{h}_{t+1}]$
+         * $\Rightarrow \mathbb{E}_{t+1}[\Delta p^{h}_{t+2}] < \mathbb{E}_{t}[\Delta p^{h}_{t+2}]$
+       * Low memory optimists become pessimists
+         * "infection": pessimist demand dries up
 
 ## The Boom: History 2.0 (2002-2006, Macropru edition)
 * $\Rightarrow$ Macropru regulators know how to do _micro_ 'stress tests' <!--        * Prudence: $\mathbb{E}[u^{\prime}]$ -->
-    * At date $t$, see balance sheets and $\mathbb{E}_{t}[\Delta p_{h}]$
+    * At date $t$, see balance sheets and $\mathbb{E}_{t}[\Delta p^{h}_{t+\bullet}]$
     * Simulate alternate _future_ histories:
        * Fundamental shocks
        * Uncertainty shocks
-       * Other shocks
+       * ...
 
 ## The Boom: History 2.0 (2002-2006, Macropru edition)
 * Result: Ever-increasing worry from 2002-2006
     * Low-equity HH's + 'double triggers' $\Rightarrow$ defaults
        * More and more low-equity HH's (financial innovation!)
-       * "stress test": susceptible to increase in unemployment
+       * "stress test" says very susceptible to increase in unemployment
     * Theory: When "susceptible" exhausted, "momentum" reverses
-       * All risk-tolerant low-memory hairdressers _already_ flippers
+<!--       * All risk-tolerant low-memory hairdressers _already_ flippers -- Manafort too -->
 * Micro stress tests reveal major fragility
 
 ## The Boom: History 2.0 (2002-2006, Macropru edition)
 Consequence? History 2.0 differs from 1.0
    * Macropru policy targeting _marginal_ people
       * Likeliest defaulters:
-         * High LTV, High DSTI, _and nonprimary_
+         * High LTV, High DSTI
          * People with more uncertain (variable) income
       * Fuel-On-the-Fire _marginal_ real estate investors
-         * They pose a pecuniary externality
-         * Charge them a lot for it!
+         * Charge them for the pecuniary externality they impose
    * Bubble avoided!
 
 ## The Bust: History 1.0
-![](https://github.com/llorracc/Figures/blob/master/Retail-Sales-Collapse.jpg)
+
+![](Figures/Retail-Sales-Collapse.jpg "Retail Sales Collapse")
+
+## The Bust: History 1.0
+
+Competing stories:
+  * $\downarrow$ in believed level of permanent income <!-- SAK: Find Cochrane reference saying this -->
+  * $\uparrow$ labor income uncertainty
+
 
 <!--
+![](https://github.com/llorracc/Figures/blob/master/Retail-Sales-Collapse.jpg)
 ![](Figures/Retail-Sales-Collapse.png)
 ![](Retail-Sales-Collapse.pnghttps://github.com/llorracc/Figures/blob/master/Retail-Sales-Collapse.jpg)
 -->
