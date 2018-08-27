@@ -22,7 +22,10 @@
 -->         
    * Expectations and explanations heterogeneity
       * Many competing theories right now
-         * Nagel, Shleifer et al, 'k-level thinking,' ... <!-- SAK: citations; Shleifer: 'Diagnostic Expectations' -->
+         * Nagel, Shleifer et al, 'k-level thinking,' ... <!-- SAK: citations; Shleifer: 'Diagnostic Expectations'
+         SAK-DONE- citation{NagelXu2018}
+         SAK-DONE- citation{BordaloEtAl2017a and BordaloEtAl2017b}
+         SAK-DONE- citation{FarhiWerning2017}-->
       * Let's run with _heterogeneous_ extrapolative expectations
          * Shiller looks back 150 years
          * Some people look back 3 years
@@ -33,9 +36,14 @@
   * Result:
       * Dot-Com Bubble a Rockefeller moment: (SAK find citation)
           * know it's a bubble when shoeshine boy is giving stock tips
+SAK-DONE- citation{chudley2017}
+It was actually Joe Kennedy who said this, not Rockefeller.
 -->
 
-<!-- SAK: Add to bibfile cites for Charles MacKay (1841) "madness of crowds" - Kindleberger (1978?) book - Minsky -->
+<!-- SAK: Add to bibfile cites for Charles MacKay (1841) "madness of crowds" - Kindleberger (1978?) book - Minsky
+SAK-DONE- citation{mackay1841}
+SAK-DONE- citation{kindleberger1978}
+SAK-DONE- citation{minsky1986}-->
 ## ... Toy Theory Of Bubbles
 
 *  Some genuine good news arrives
@@ -96,6 +104,7 @@ Consequence: Boom in asset prices
 
 * Rationally Exuberant Expectations
    * Hall (2000) AEA Ely Lecture (I think -- SAK find it)
+   SAK-DONE- citation{hallAEA2001}
       * Companies rapidly creating "intangible capital"
 * Irrational Exuberance (Shiller)
    * No Usable Theory of the _Right_ model
@@ -108,13 +117,20 @@ Consequence: Boom in asset prices
 
 ## The Boom: History 1.0 - Facts
 
-2000-01: <!-- SAK: find facts about mildness of housing decline in 2000-01 recession -->
-   * Housing is _not_ the cycle <!-- Ed Leamer notwithstanding (SAK: Leamer Jackson Hole paper) -->
+2000-01: <!-- SAK: find facts about mildness of housing decline in 2000-01 recession
+    SAK-DONE- Added figure to Figures/HPI.pdf-->
+   * Housing is _not_ the cycle <!-- Ed Leamer notwithstanding (SAK: Leamer Jackson Hole paper)
+   SAK-DONE- citation{leamer2007}-->
 
 2001-05: Chinese external saving unleashed (WTO)
 * $\Rightarrow$ Interest rates lowest since Great Depression
-* Bernanke  "global savings glut ('GSG')" (2005) <!-- SAK: add to bibfile -->
-<!-- MS say it's also because of the increase in inequality SAK: (get ref in bibfile; -->
+* Bernanke  "global savings glut ('GSG')" (2005) <!-- SAK: add to bibfile
+SAK-DONE- citation{bernanke2005}-->
+<!-- MS say it's also because of the increase in inequality SAK: (get ref in bibfile;
+SAK-DONE- citation{MianSufi2018}
+SAK-DONE- citation{kumhofEtAl2015}
+Note: MianSufi2018 mention both the savings glut and rise in inequality as possible sources of expansion in credit supply. kumhofEtAl2015 study the role of inequality in detail.
+-->
 
 2002-06:
   * Continuing $\uparrow$ in availability of credit
@@ -129,20 +145,25 @@ Consequence: Boom in asset prices
 
 2002:
    * First claims housing bubble is inflating
-      * Krugman; the _Economist_; scattered others <!-- SAK find link to Krugman column, put in bibfile -->
-      <!-- SAK: reference to Mian and Sufi (2018) vs Adelino etc on this subject? -->
-
+      * Krugman; the _Economist_; scattered others <!-- SAK find link to Krugman column, put in bibfile SAK-DONE- citation{krugmanNYTimes2002}
+      Note: It should be noted that this popular article, which commentators have used to claim that Krugman had predicted a bubble, is mostly misinterpreted.
+      In this article, Krugman was actually talking about the limits to the Fed's powers, saying that the only way Greenspan could achieve a recovery would be
+      if he were abe to create a new bubble. It was in Krugman's 2005 piece (citation{krugmanNYTimes2005}) that he warned against the housing bubble.-->
+      <!-- SAK: reference to Mian and Sufi (2018) vs Adelino etc on this subject?
+      SAK-DONE- citation{AdelinoEtAl2016}
+              - citation{MianSufi2018}-->
       <!-- SAK: add Blinder:After the Music Stopped to references -->
 
 2004:
-   * Shiller: 'Might be a bubble' <!-- SAK: Shiller discussed a paper of mine at the Fed where he said this; see if you can find him saying it publicly in 2004; put in bibfile -->
-   * Gramlich: 'Something funny going on around here' <!-- SAK: Find citation for Gramlich's warnings -->
+   * Shiller: 'Might be a bubble' <!-- SAK: Shiller discussed a paper of mine at the Fed where he said this; see if you can find him saying it publicly in 2004; put in bibfile
+   SAK-DONE- citation{shiller2004}-->
+   * Gramlich: 'Something funny going on around here' <!-- SAK: Find citation for Gramlich's warnings SAK-DONE- citation{gramlich2004}-->
         * 'Financial innovation'
 
 ## The Boom: History 1.0 - Interpretation
 
 2005:
-   * Himmelberg, Mayer and Sinai (JEP): <!-- SAK: put in bibfile and papers -->
+   * Himmelberg, Mayer and Sinai (JEP): <!-- SAK: put in bibfile and papers SAK-DONE- citation{himmelbergEtAl2005}-->
       * 'Not a bubble - improved fundamentals'
          * "New Economy" is now consensus
          * Low $R$ (from GSG and Fed) <!-- Fed was worried about deflation (!) -->
@@ -152,7 +173,8 @@ Consequence: Boom in asset prices
 ## The Boom: History 2.0 (2002-2006)
 * _Prereq_ for bubble: improved fundamentals
 * 2002-2003: Lots of people in "susceptible" pool
-   * $\Delta_{\bullet}~ p^{h}_{t} \rightarrow \mathbb{E}_{t}[\Delta p^{h}_{t+\bullet}]$ is high: "momentum" <!-- SAK: Use data from [Michigan surveys](https://data.sca.isr.umich.edu/charts.php) to show $\Delta_{1} p^{h}_{t} vs ... \mathbb{E}_{t}[\Delta p^{h}_{t+1}]$ for period over which both are available) -->
+   * $\Delta_{\bullet}~ p^{h}_{t} \rightarrow \mathbb{E}_{t}[\Delta p^{h}_{t+\bullet}]$ is high: "momentum" <!-- SAK: Use data from [Michigan surveys](https://data.sca.isr.umich.edu/charts.php) to show $\Delta_{1} p^{h}_{t} vs ... \mathbb{E}_{t}[\Delta p^{h}_{t+1}]$ for period over which both are available)
+   SAK-DONE- figure added to Figures/Michigan_HPI.pdf-->
    * "New Economy" + Bush upper-income tax cuts
       * They have some money
       * Michigan survey: Pessimistic about stock market (after bubble)
@@ -170,7 +192,8 @@ Increasing 'infection'  <!-- (citekey for Pizzesi and Schneider 'marginal' inves
       2. More and more buying "as an investment" and not residence
     * Data _are_ the plural of anecdotes
          * Hairdressers, 'shoeshine boys' becoming 'flippers'
-         <!-- SAK: Find quote -- Rockefeller? -- about how you know its a bubble when shoeshine boy gives you stock tips; also citation for flipping -->
+         <!-- SAK: Find quote -- Rockefeller? -- about how you know its a bubble when shoeshine boy gives you stock tips; also citation for flipping
+         SAK-DONE- citation{chudley2017} Note: As mentioned earlier, it was not Rockefeller, it was Joe Kennedy who said this. -->
 <!--       * TV shows do not lie -->
 <!-- Models vs data
    * Krugman _et al_ may have a point
@@ -199,7 +222,9 @@ Increasing 'infection'  <!-- (citekey for Pizzesi and Schneider 'marginal' inves
 * $\Rightarrow$ Macropru regulators know how to do _micro_ 'stress tests' <!--        * Prudence: $\mathbb{E}[u^{\prime}]$ -->
     * At date $t$, see balance sheets and $\mathbb{E}_{t}[\Delta p^{h}_{t+\bullet}]$
     * Simulate alternate _future_ histories:
-       * Fundamental shocks <!-- SAK: find citation for Fernald, Hall, etc: Decline in pty growth starting 2005 (Brookings paper) citation -->
+       * Fundamental shocks <!-- SAK: find citation for Fernald, Hall, etc: Decline in pty growth starting 2005 (Brookings paper) citation
+       SAK-DONE- citation{FernaldEtAl2016}
+                 citation{HallNBER2014}-->
        * Uncertainty shocks <!-- Michigan survey but don't see whose uncertainty goes up -- marginal homebuyers ? -->
        * ...
 
@@ -226,7 +251,10 @@ Consequence? History 2.0 differs from 1.0
 ## The Bust: History 1.0
 
 ![](Figures/Retail-Sales-Collapse.jpg)
-<!-- SAK citation to own paper on household response to uncertainty paper reference -->
+<!-- SAK citation to own paper on household response to uncertainty paper reference
+SAK-DONE- citation{AlexopoulosCohen2015} -- This paper might be more relevant for you.
+          citation{KnotekKhan2011}
+          Note: AlexopoulosCohen2015 also use a NYTimes uncertainty index. It might be more relevant for you, as they find a higher response of household spending to uncertainty shocks than KnotekKhan2011. We found that household spending reductions are modest and may only appear after a considerable time has passed.-->
 
 ## The Bust: History 1.0
 
@@ -283,8 +311,9 @@ Simplicity: Ideals
       * Difference in parameter like "memory"
    * Behavioral foundations strongly supported by evidence
       * "Other people are like me" <!-- SAK: Find a reference of evidence of this -->
-      * "Representativeness Heuristic" <!-- SAK: Kahneman book "Thinking fast and slow" into bibfile -->
-      * Fading Memory <!-- SAK: Nagel and Malmendier refs into bibfile -->
+      * "Representativeness Heuristic" <!-- SAK: Kahneman book "Thinking fast and slow" into bibfile SAK-DONE- citation{kahneman2011}-->
+      * Fading Memory <!-- SAK: Nagel and Malmendier refs into bibfile SAK-DONE- citation{NagelXu2018}
+      citation{MalmendierNagel2011}-->
       * ...
 
 ## Modeling Expectations and explanations (Desiderata)
