@@ -97,7 +97,8 @@ Consequence: Boom in asset prices
       * (cf Hall 2000)
 -->
 
-<!-- SAK: add Blinder:After the Music Stopped to references -->
+<!-- SAK: add Blinder:After the Music Stopped to references 
+     SAK-DONE- citation{blinder2013}-->
 
 <!--
 ## Prehistoric Theories
@@ -152,11 +153,13 @@ Note: MianSufi2018 mention both the savings glut and rise in inequality as possi
       <!-- SAK: reference to Mian and Sufi (2018) vs Adelino etc on this subject?
       SAK-DONE- citation{AdelinoEtAl2016}
               - citation{MianSufi2018}-->
-      <!-- SAK: add Blinder:After the Music Stopped to references -->
+      <!-- SAK: add Blinder:After the Music Stopped to references 
+           SAK-DONE-citation{blinder2013}-->
 
 2004:
    * Shiller: 'Might be a bubble' <!-- SAK: Shiller discussed a paper of mine at the Fed where he said this; see if you can find him saying it publicly in 2004; put in bibfile
-   SAK-DONE- citation{shiller2004}-->
+   SAK-DONE- citation{shiller2004}
+             citation{CaseShiller2003}-->
    * Gramlich: 'Something funny going on around here' <!-- SAK: Find citation for Gramlich's warnings SAK-DONE- citation{gramlich2004}-->
         * 'Financial innovation'
 
@@ -187,7 +190,7 @@ Increasing 'infection'  <!-- (citekey for Pizzesi and Schneider 'marginal' inves
    * _Among those_ with $\uparrow$ in $\mathbb{E}[\Delta p^{h}]$
      * Biggest increase among _ex ante_ low memory types
         * _We ask them why_ and they _say_, basically, "momentum"
-   * _Marginal_ demand driven by low-memory optimists <!-- Citation for Mian and Sufi vs Adelino etc -->
+   * _Marginal_ demand driven by low-memory optimists <!-- Citation for Mian and Sufi vs Adelino etc SAK-DONE-citation{MianSufi2018, MianSufi2017, AdelinoEtAl2016}-->
       1. Primary residence buyers: buy more expensive houses
       2. More and more buying "as an investment" and not residence
     * Data _are_ the plural of anecdotes
@@ -209,6 +212,7 @@ Increasing 'infection'  <!-- (citekey for Pizzesi and Schneider 'marginal' inves
    * If at $t$, _inflow_ declines ($\downarrow$ _marginal_ demand)
       * then $\Delta p^{h}_{t+1} < \mathbb{E}_{t}[\Delta p^{h}_{t+1}]$
 
+<!-- SAK- citation{EdmistonZalneraitis2007} Note: This paper has early warning signs of increasing foreclosures.-->
 ## Boom to Bust: History 2.0 (2007-08)
 * In 2007, _expansion_ of credit stops <!-- Fed SLOOS shows this -->
 *
@@ -234,7 +238,8 @@ Increasing 'infection'  <!-- (citekey for Pizzesi and Schneider 'marginal' inves
        * More and more low-equity HH's (financial innovation!)
        * "stress test" says very susceptible to increase in unemployment
     * Theory: When "susceptible" exhausted, "momentum" reverses
-<!--       * All risk-tolerant low-memory hairdressers _already_ flippers -- Manafort too -->
+<!--       * All risk-tolerant low-memory hairdressers _already_ flippers -- Manafort too 
+            SAK-DONE- citation{AdelinoEtAl2016} -- They show that areas with high house price growth saw a significant increase in flipped properties.-->
 * Micro stress tests reveal major fragility
 
 ## The Boom: History 2.0 (2002-2006, Macropru edition)
